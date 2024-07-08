@@ -1,0 +1,102 @@
+{
+  
+    "productos": [
+        
+
+    {
+        "id": 1,
+        "nombre": "CAMPERA INTY",
+        "categoria": "Buzos y Camperas",
+        "tela": "Lycra Elastizada",
+        "photo": "/assets/campera_inty.webp",
+        "stock":  12,
+	    "valor": 60000,
+        "especificaciones": "Lycra elastizada térmica de alta calidad. Ideal para ir al gimnasio y de uso casual",
+        "talles": "Tabla de talles expresada en CM <br> S pecho 54 cm manga 70cm largo 66cm <br> M pecho 55 cm manga 72 cm largo 67 cm <br> L pecho 56 cm manga 73 cm largo 68 cm <br> Xl pecho 57 cm manga 74 cm largo 69 cm <br>"
+    },
+
+    {
+        "id": 2,
+        "nombre": "PANTALON THE REX ",
+        "categoria": "Pantalones",
+        "tela": "Lycra Elastizada",
+        "photo": "/assets/pantalon_therex.webp",
+        "stock":  1,
+	    "valor": 50000,
+        "especificaciones": "Tela: Lycra elastizada térmica de alta calidad. Modelo recto. Cintura elastizada con cordones. Bolsillos con cierre. Bota manga con cierre.",
+        "talles": "Tabla de talles expresada en Cm. <br> S: cintura 41 cm, cadera 58 cm y largo 100 cm. <br> M: cintura 43 cm, cadera 60 cm y largo 102 cm. <br> L: cintura 45 cm, cadera 62 cm y largo 104 cm. <br> XL: cintura 47 cm, cadera 64 cm y largo de 106 cm. <br> XXL: cintura 49 cm, cadera 66 cm y largo de 108 cm. <br>"
+    },
+    
+    {
+        "id": 3,
+       "nombre": "REMERA DRIFITT",
+        "categoria": "Remeras",
+        "tela": "Drifitt",
+        "photo": "/assets/remera_drifitt.webp ",
+        "stock":  20,
+	    "valor": 18000,
+        "especificaciones": "Tela dry fit elastizada alta calidad",
+        "talles": "Tabla de talles expresada en Cm. <br> S pecho 54 cm largo 66cm <br> M pecho 55 cm largo 67 cm <br> L pecho 56 cm largo 68 cm <br> Xl pecho 57 cm largo 69 cm"
+    },
+    
+    {
+        "id": 4,
+        "nombre": "BUZO ALBRA",
+        "categoria": "Buzos y Camperas",
+        "tela": "Algodon",
+        "photo": "/assets/buzo_albra.webp",
+        "stock":  2,
+	    "valor": 50000,
+        "especificaciones": "Tela algodón con micro fibra.",
+        "talles": "Tabla de talles expresada en CM <br> S pecho 54 cm manga 70cm largo 66cm <br> M pecho 55 cm manga 72 cm largo 67 cm <br> L pecho 56 cm manga 73 cm largo 68 cm <br> Xl pecho 57 cm manga 74 cm largo 69 cm <br>"
+    },
+    
+    {
+        "id": 5,
+       "nombre": "PANTALON BIONIC",
+        "categoria": "Pantalones",
+        "tela": "Lycra Elastizada",
+        "photo": "/assets/pantalon_bionic.webp",
+        "stock": 5,
+        "valor": 60000,
+        "especificaciones": "Lycra elastizada térmica. Cintura elastizada con cordones. Bolsillo con cierre",
+        "talles": "Tabla de talles expresada en Cm. <br> S: cintura 41 cm, cadera 58 cm y largo 100 cm. <br> M: cintura 43 cm, cadera 60 cm y largo 102 cm. <br> L: cintura 45 cm, cadera 62 cm y largo 104 cm. <br> XL: cintura 47 cm, cadera 64 cm y largo de 106 cm. <br> XXL: cintura 49 cm, cadera 66 cm y largo de 108 cm. <br>"
+    },
+    
+    {
+        "id": 6,
+        "nombre": "REMERA INFINITY",
+        "categoria": "Remeras",
+        "tela": "Lycra Elastizada",
+        "photo": "/assets/remera_infinity.webp ",
+        "stock":  15,
+	    "valor": 18000,
+        "especificaciones": "Tela lycra elastizada alta calidad",
+        "talles": "Tabla de talles expresada en Cm. <br> S pecho 54 cm largo 66cm <br> M pecho 55 cm largo 67 cm <br> L pecho 56 cm largo 68 cm <br> Xl pecho 57 cm largo 69 cm"
+    },
+    
+    {
+        "id": 7 ,
+        "nombre": "REMERA DIETER",
+        "categoria": "Remeras",
+        "tela": "Lycra Elastizada",
+        "photo": "/assets/remera_dieter.webp",
+        "stock":  9,
+	    "valor": 28000,
+        "especificaciones": "Tela lycra elastizada alta calidad",
+        "talles": "Tabla de talles expresada en Cm. <br> S pecho 54 cm largo 66cm <br> M pecho 55 cm largo 67 cm <br> L pecho 56 cm largo 68 cm <br> Xl pecho 57 cm largo 69 cm"
+    },
+
+    {
+        "id": 8 ,
+        "nombre": "PANTALON RUN FREE",
+        "categoria": "Pantalones",
+        "tela": "Lycra Elastizada",
+        "photo": "/assets/pantalon_runfree.webp",
+        "stock": 3,
+	    "valor": 45000,
+        "especificaciones": "Tela lycra elastizada térmica. Bolsillos con cierre. Cintura elastizada con cordones",
+        "talles": "Tabla de talles expresada en Cm. <br> S: cintura 41 cm, cadera 58 cm y largo 100 cm. <br> M: cintura 43 cm, cadera 60 cm y largo 102 cm. <br> L: cintura 45 cm, cadera 62 cm y largo 104 cm. <br> XL: cintura 47 cm, cadera 64 cm y largo de 106 cm. <br> XXL: cintura 49 cm, cadera 66 cm y largo de 108 cm. <br>"
+    }
+    
+ ]}
