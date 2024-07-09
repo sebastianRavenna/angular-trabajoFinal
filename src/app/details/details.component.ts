@@ -1,4 +1,4 @@
-import { Component, inject, Input} from '@angular/core';
+import { Component, inject, } from '@angular/core';
 import { IProduccionDetallada } from '../produccion-detallada';
 import { ProduccionService } from '../produccion.service';
 import { ActivatedRoute } from '@angular/router';
@@ -31,26 +31,23 @@ import { CommonModule} from '@angular/common';
       />
       <section class="listing-description">
         <h2 class="listing-heading">{{ produccionDetallada.nombre }}</h2>
-        <p class="listing-productos">
-          {{ produccionDetallada.categoria }}, {{ produccionDetallada.tela }}
-        </p>
+        
+        <h3 class="precio"> $ {{ produccionDetallada.valor }} </h3>
       </section>
       <section class="listing-features">
         <h2 class="section-heading">Detalles</h2>
-        <ul>
-          <li>
-          Especificaciones:{{
-            produccionDetallada.especificaciones
-          }}
-          </li>
-          <li>
-            Tabla de Talles:{{
-              produccionDetallada.talles
-            }}
-          </li>
-          <h3>"$ "+ produccionDetallada.valor </h3>
-          <li>Stock disponible: {{ produccionDetallada.stock }}</li>
-        </ul>
+        <p class="listing-productos">
+            {{ produccionDetallada.categoria }}, {{ produccionDetallada.tela }}
+          </p>
+          <p class="listing-productos">
+          Especificaciones:{{ produccionDetallada.especificaciones }}
+          </p>
+          <p class="listing-productos">
+          {{ produccionDetallada.talles }}
+          </p>
+          <p class="listing-productos">Stock disponible: {{ produccionDetallada.stock }}  
+          </p>
+        
       </section>
           }
           
